@@ -1,6 +1,16 @@
 <h1>Descrição:</h1>
 
-<p>Tal como os trabalhos anteriores, este trabalho foi feito numa máquina virtual.</p>
+<p>Este trabalho pertence à área de desenvolvimento de jogos.</p>
+
+<p>Este trabalho consiste num jogo de plataforma</p>
+
+<h2>Comandos:</h2>
+
+<ul>
+  <li>ewfwoj</li>
+</ul>
+
+<p>Este trabalho foi feito com o game engine Unity e usei C# como linguagem de scripting.</p>
 
 <h1>Imagens:</h1>
 
