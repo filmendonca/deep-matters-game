@@ -4,7 +4,7 @@
 
 <h1>Imagens:</h1>
 
-![image](/screenshots/menu.png?raw=true "Menú")
+![image](/screenshots/menu.png?raw=true "Menu")
 
 ![image](/screenshots/opcoes.png?raw=true "Opções")
 
