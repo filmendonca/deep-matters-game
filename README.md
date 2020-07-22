@@ -2,15 +2,15 @@
 
 <p>Este trabalho pertence à área de desenvolvimento de jogos.</p>
 
-<p>Este trabalho consiste num jogo que é um misto de plataforma e First-Person Shooter(FPS). O objetivo do jogador é percorrer todos os níveis e chegar ao fim do jogo sem perder todas as vidas. Durante o percurso, ele vai ter de matar inimigos e colecionar vários tipos de pickups que o vão ajudar a passar cada nível.</p>
+<p>Este trabalho consiste num jogo que é um misto de plataforma e First-Person Shooter(FPS). O objetivo do jogador é percorrer todos os níveis e chegar ao fim do jogo sem perder todas as vidas. Durante o percurso, ele vai ter de matar robots inimigos e colecionar vários tipos de pickups que o vão ajudar a passar cada nível.</p>
 
 <p>O 1º nível é uma base subterrânea. O jogador tem de percorrer a base e encontrar chaves suficientes para abrir uma porta que o impede de prosseguir.</p>
 
-<p>O 1º nível é uma base subterrânea. O jogador tem de percorrer a base e encontrar chaves suficientes para abrir uma porta que o impede de prosseguir.</p>
+<p>O 2º nível é uma floresta. Novamente, o jogador tem de percorrer o nível e encontrar chaves suficientes para abrir outra porta que o impede de chegar ao fim do jogo. Mas tem de ter cuidado, pois os robots prepararam uma emboscada.</p>
 
 <p>Nos dois níveis existem robots que quando detetam o jogador, começam a disparar e a persegui-lo com o objetivo de o matar. De forma a manter-se vivo, o jogador precisa de encontrar pickups para regenerar a sua vida.</p>
 
-<p>Este trabalho foi feito com o game engine Unity e usei C# como linguagem de scripting.</p>
+<p>Este trabalho foi feito com o game engine Unity e usei C# como linguagem de scripting. Todos os assets usados no trabalho são de fontes livres. Alguns assets foram ligeiramente editados em programas como Blender e Photoshop de forma a adequarem-se melhor ao trabalho.</p>
 
 <h2>Comandos:</h2>
 
