@@ -7,7 +7,12 @@
 <h2>Comandos:</h2>
 
 <ul>
-  <li>ewfwoj</li>
+  <li><b>WASD</b> para movimentar o jogador;</li>
+  <li><b>C</b> para o jogador agachar;</li>
+  <li><b>SHIFT + W</b> para o jogador correr;</li>
+  <li><b>SPACE</b> para o jogador saltar;</li>
+  <li><b>LMB</b> botão esquerdo do rato para disparar arma;</li>
+  <li><b>R</b> para recarregar a arma;</li>
 </ul>
 
 <p>Este trabalho foi feito com o game engine Unity e usei C# como linguagem de scripting.</p>
